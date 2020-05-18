@@ -1,7 +1,10 @@
 DISCLAIMER:
 
-This model seem to be pretty inaccuate with the handdrawn numbers.
+This model can be inaccuate with the mouse-drawn numbers.
 It performs better on the dataset itself.
+This is probably because the dimensions of the images for 
+the mouse-drawn numbers are different than the trained data-set.
+I intent to improve this accurace once classes end.
 Here is the output from the training:
 
 				precision    recall  f1-score   support
